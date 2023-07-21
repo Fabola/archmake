@@ -1,1 +1,1 @@
-# archmake
+# arch.make
